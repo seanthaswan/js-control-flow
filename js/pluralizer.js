@@ -1,7 +1,9 @@
 var thing;
-thing = "cat";
+var count;
 
-var count = "1";
+thing = "cat";
+count = 1;
+
 
 if(count>1){
 	thing = thing + "s";
